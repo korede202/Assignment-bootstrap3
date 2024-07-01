@@ -1,0 +1,42 @@
+.mark{
+    background-color: rgb(226, 201, 249);
+    tex
+}
+.bold{
+    
+}
+.main{
+    margin-left: 300px;
+    margin-right: 300px; 
+    
+    font-size: 20px;
+}
+.one{
+    background-color: rgb(63, 183, 183);
+    color: white;
+    height: 50px;
+    text-align: center; 
+    
+}
+.come{
+    margin-top: 100px;
+}
+.image{
+    width: 500px;
+    height: 300px;
+}
+.order{
+    list-style-type: none;
+}
+ul{
+    list-style-type: none;
+}
+img{
+    width: 670px;
+    height: 400px;
+}
+.ade{
+    color: red;
+    font-size: 22px;
+    
+}
